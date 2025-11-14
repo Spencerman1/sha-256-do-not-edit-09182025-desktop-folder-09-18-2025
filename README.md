@@ -1,2 +1,4 @@
-# sha-256-do-not-edit-09182025-desktop-folder-09-18-2025
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+sha-256-do-not-edit-09182025-desktop-folder-09-18-2025
 This archive is a full snapshot of the user’s desktop working environment as of September 18, 2025. It includes critical documents, development files, private correspondence, legal drafts, IP evidence, licensing data, and reference material relevant to ongoing IP protection and enforcement efforts.
